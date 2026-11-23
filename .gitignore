@@ -1,0 +1,18 @@
+# WorkBuddy 内部元数据与工作日志（含本机绝对路径，不应公开）
+.workbuddy/
+
+# 任务指令残留与需求素材（非项目功能文件）
+提示词.txt
+知识卡片.png
+知识卡片.doc
+
+# 常见临时/备份/缓存文件
+*.tmp
+*.bak
+*.log
+*.swp
+*~
+.DS_Store
+Thumbs.db
+*.pyc
+__pycache__/

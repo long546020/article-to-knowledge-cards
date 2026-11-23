@@ -1,0 +1,5 @@
+interface:
+  display_name: "知识卡片生成器"
+  short_description: "把粘贴的文章或本地 Markdown/TXT 文件转换成 5-8 张知识卡片"
+  long_description: "将文章、笔记或本地 Markdown/TXT 文本提炼成 5-8 张结构化知识卡片。每张卡片只讲一个知识点，包含标题、核心知识、简明解释、例子或自测问题。严格基于原文，不编造、不重复、信息不足不凑数。暂不支持网页抓取、PDF、Anki 和图形界面。"
+  default_prompt: "Use $make-knowledge-cards to turn the pasted article or local Markdown/TXT file into 5-8 knowledge cards."
